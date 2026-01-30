@@ -19,7 +19,8 @@ The workflow is divided into four key stages:
 * **Language:** Python (Pandas, NumPy, SQLAlchemy)
 * **Database:** PostgreSQL 
 * **Visualization:** Power BI
-* **Presentation:** Gamma AI & Markdown Reporting
+* **Presentation:** Gamma AI
+* **Reporting** MS Word
 
 ---
 
