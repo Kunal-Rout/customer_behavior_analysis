@@ -20,7 +20,7 @@ The workflow is divided into four key stages:
 * **Database:** PostgreSQL 
 * **Visualization:** Power BI
 * **Presentation:** Gamma AI
-* **Reporting** MS Word
+* **Reporting:** MS Word
 
 ---
 
