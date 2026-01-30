@@ -9,6 +9,8 @@ The workflow is divided into four key stages:
 * **Data Analysis (SQL):** Simulating business transactions and extracting segment-specific insights.
 * **Visualization (Power BI):** Building interactive dashboards for data-driven decision-making.
 * **Strategic Reporting:** Summarizing findings and actionable business recommendations.
+* ![Uploading image.png…]()
+
 
 ---
 
