@@ -1,4 +1,4 @@
-### End-to-End Data Analytics & Strategic Business Intelligence
+# 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
 
 ## 📌 Project Overview
 This project simulates a corporate-grade data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence. The pipeline covers everything from initial data ingestion to executive-level reporting.
