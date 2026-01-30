@@ -1,4 +1,3 @@
-Customer Shopping Behavior Analysis
 ### End-to-End Data Analytics & Strategic Business Intelligence
 
 ## 📌 Project Overview
