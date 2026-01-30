@@ -1,4 +1,4 @@
-<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/6b3820ef-9226-4158-b37d-281331abc22b" /># 📊 Customer Shopping Behavior Analysis
+Customer Shopping Behavior Analysis
 ### End-to-End Data Analytics & Strategic Business Intelligence
 
 ## 📌 Project Overview
@@ -9,6 +9,7 @@ The workflow is divided into four key stages:
 * **Data Analysis (SQL):** Simulating business transactions and extracting segment-specific insights.
 * **Visualization (Power BI):** Building interactive dashboards for data-driven decision-making.
 * **Strategic Reporting:** Summarizing findings and actionable business recommendations.
+<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/6b3820ef-9226-4158-b37d-281331abc22b" /># 📊 
 
 
 
