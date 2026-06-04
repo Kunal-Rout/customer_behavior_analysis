@@ -9,7 +9,8 @@ The workflow is divided into four key stages:
 * **Visualization (Power BI):** Building interactive dashboards for data-driven decision-making.
 * **Strategic Reporting:** Summarizing findings and actionable business recommendations.
   
-<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/6b3820ef-9226-4158-b37d-281331abc22b" />
+<img width="3840" height="2160" alt="Project Image" src="https://github.com/user-attachments/assets/6b5a351c-5ef9-4c70-add3-cd961652af0a" />
+
 
 
 
@@ -19,7 +20,7 @@ The workflow is divided into four key stages:
 * **Language:** Python (Pandas, NumPy, SQLAlchemy)
 * **Database:** PostgreSQL 
 * **Visualization:** Power BI
-* **Presentation:** Gamma AI
+* **Presentation:** Claude AI
 * **Reporting:** MS Word
 
 ---
@@ -50,7 +51,7 @@ Connecting the SQL database to Power BI to create a dynamic visual ecosystem:
 
 ### 4. Report & Presentation
 * **Project Report:** A detailed document summarizing the methodology, data limitations, and final findings.
-* **Presentation Deck:** Created using **Gamma AI** to visually communicate insights and "Next Step" recommendations to stakeholders.
+* **Presentation Deck:** Created using **Claude AI** to visually communicate insights and "Next Step" recommendations to stakeholders.
 
 ---
 
@@ -64,6 +65,6 @@ Connecting the SQL database to Power BI to create a dynamic visual ecosystem:
 │   └── customer_behavior_dashboard.pbix           # Power BI Dashboard file
 ├── Reports/
 │   ├── Project_Report.md                          # Detailed Findings
-│   └── Presentation_Link.txt                      # Link to Gamma AI Slides
+│   └── Presentation_Link.txt                      # Link to Claude AI Slides
 └── Data/                                          # (Optional) Raw data files
 
